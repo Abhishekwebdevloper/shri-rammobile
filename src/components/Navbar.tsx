@@ -59,7 +59,7 @@ export function Navbar() {
               ))}
             </ul>
             <a 
-              href="tel:010100101"
+              href="tel:0123456789"
               className="px-4 py-2 rounded-full bg-white/10 hover:bg-white/20 border border-white/10 text-white text-sm font-medium flex items-center gap-2 transition-all hover:scale-105 active:scale-95"
             >
               <Phone className="w-4 h-4" />
@@ -112,11 +112,11 @@ export function Navbar() {
             </div>
             <div className="p-6 border-t border-white/10 flex flex-col gap-4">
               <a 
-                href="tel:010100101"
+                href="tel:0123456789"
                 className="w-full py-4 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-semibold flex items-center justify-center gap-2"
               >
                 <Phone className="w-5 h-5" />
-                Call 010100101
+                Call 0123456789
               </a>
               <a 
                 href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bdd9500156ce42d:0x68df8df6efbcd059" 

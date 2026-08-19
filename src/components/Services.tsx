@@ -117,13 +117,13 @@ export function Services() {
 
               <div className="flex gap-4">
                 <a 
-                  href="tel:010100101"
+                  href="tel:0123456789"
                   className="flex-1 py-3 rounded-xl bg-white text-black font-semibold text-center hover:bg-zinc-200 transition-colors"
                 >
                   Call to Enquire
                 </a>
                 <a 
-                  href={`https://wa.me/010100101?text=${encodeURIComponent(`Hi, I want to enquire about ${selectedService.title}.`)}`}
+                  href={`https://wa.me/0123456789?text=${encodeURIComponent(`Hi, I want to enquire about ${selectedService.title}.`)}`}
                   target="_blank"
                   rel="noreferrer"
                   className="flex-1 py-3 rounded-xl bg-[#25D366]/20 text-[#25D366] font-semibold text-center hover:bg-[#25D366]/30 transition-colors border border-[#25D366]/30"

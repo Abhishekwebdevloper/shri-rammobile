@@ -82,14 +82,14 @@ export function Contact() {
               className="flex flex-wrap gap-4"
             >
               <a 
-                href="tel:010100101"
+                href="tel:0123456789"
                 className="px-6 py-4 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-semibold flex items-center gap-2 hover:scale-105 transition-transform"
               >
                 <Phone className="w-5 h-5" />
                 Call Now
               </a>
               <a 
-                href="https://wa.me/010100101?text=Hi,%20I%20want%20to%20enquire%20about%20mobile%20repair."
+                href="https://wa.me/0123456789?text=Hi,%20I%20want%20to%20enquire%20about%20mobile%20repair."
                 target="_blank"
                 rel="noreferrer"
                 className="px-6 py-4 rounded-xl bg-[#25D366]/20 border border-[#25D366]/30 text-[#25D366] font-semibold flex items-center gap-2 hover:bg-[#25D366]/30 transition-colors"

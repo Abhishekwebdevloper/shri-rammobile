@@ -38,11 +38,11 @@ export function Footer() {
             <ul className="flex flex-col gap-4">
               <li>
                 <a 
-                  href="tel:010100101"
+                  href="tel:0123456789"
                   className="flex items-start gap-3 text-zinc-400 hover:text-white transition-colors group"
                 >
                   <Phone className="w-5 h-5 shrink-0 group-hover:text-cyan-400 transition-colors" />
-                  <span>010100101</span>
+                  <span>0123456789</span>
                 </a>
               </li>
               <li>
@@ -62,9 +62,9 @@ export function Footer() {
         <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-zinc-500">
           <p>© {new Date().getFullYear()} Shri Ram Mobiles. All rights reserved.</p>
           <div className="flex items-center gap-4">
-             <a href="tel:010100101" className="hover:text-white transition-colors">Call</a>
+             <a href="tel:0123456789" className="hover:text-white transition-colors">Call</a>
              <span>•</span>
-             <a href="https://wa.me/010100101?text=Hi" target="_blank" rel="noreferrer" className="hover:text-white transition-colors">WhatsApp</a>
+             <a href="https://wa.me/0123456789?text=Hi" target="_blank" rel="noreferrer" className="hover:text-white transition-colors">WhatsApp</a>
              <span>•</span>
              <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x3bdd9500156ce42d:0x68df8df6efbcd059" target="_blank" rel="noreferrer" className="hover:text-white transition-colors">Google Maps</a>
           </div>
