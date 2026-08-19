@@ -75,7 +75,7 @@ export function Hero() {
               <ChevronRight className="w-5 h-5" />
             </a>
             <a 
-              href="tel:+919595905650"
+              href="tel:010100101"
               className="w-full sm:w-auto px-8 py-4 rounded-xl bg-white/10 border border-white/20 text-white font-semibold flex items-center justify-center gap-2 transition-all hover:bg-white/20 hover:scale-105 active:scale-95"
             >
               <Phone className="w-5 h-5" />
