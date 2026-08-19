@@ -1,0 +1,8 @@
+{
+  "name": "Shri Ram Mobiles",
+  "description": "Shri Ram Mobiles provides premium mobile phone repair services in Deolali, Nashik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
